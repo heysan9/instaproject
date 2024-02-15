@@ -1,0 +1,26 @@
+body{
+    background-color: #e7d9d7ef;
+    font-family:"Lexend";
+}
+header{background-color: white;
+}
+h1{font-size: 44px;}
+.content{
+    width: 600px;
+    margin:0 auto ;
+}
+.gif{
+    
+    background-color: white;  
+    text-align: center; 
+
+}
+h3{color:rgb(214, 212, 212)}
+
+img{width: 100%;}
+.sub{
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+    text-align: center;
+}
